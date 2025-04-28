@@ -1,0 +1,3 @@
+ogrencinot = (50,70,80)
+ortalama = sum(ogrencinot) / len(ogrencinot)
+print(ortalama)
