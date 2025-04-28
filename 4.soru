@@ -1,0 +1,3 @@
+ad = input("Adınız Nedir = ")
+harf = list(ad)
+print(harf)
