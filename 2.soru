@@ -1,0 +1,5 @@
+my_tuple = ( 0 , 1 , 2 , "hi" , 4 , 5 )
+new = list(my_tuple)
+new.remove("hi")
+my_tuple = new
+print(my_tuple)
